@@ -1,4 +1,4 @@
-package it.unibo.model.api.card;
+package it.unibo.oop.lastcrown.model.api.card;
 
 /**
  * A generic Card of the Collection.

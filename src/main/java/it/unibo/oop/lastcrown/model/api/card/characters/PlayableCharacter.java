@@ -1,4 +1,4 @@
-package it.unibo.model.api.card.characters;
+package it.unibo.oop.lastcrown.model.api.card.characters;
 
 /**
  * A character that can be played from the player's deck during a match.

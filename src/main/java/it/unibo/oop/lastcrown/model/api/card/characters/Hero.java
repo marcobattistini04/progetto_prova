@@ -1,4 +1,4 @@
-package it.unibo.model.api.card.characters;
+package it.unibo.oop.lastcrown.model.api.card.characters;
 
 import java.util.Optional;
 

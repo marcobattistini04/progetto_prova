@@ -1,7 +1,7 @@
-package it.unibo.model.impl.card;
+package it.unibo.oop.lastcrown.model.impl.card;
 
-import it.unibo.model.api.card.Card;
-import it.unibo.model.api.card.Requirement;
+import it.unibo.oop.lastcrown.model.api.card.Card;
+import it.unibo.oop.lastcrown.model.api.card.Requirement;
 
 /**
  * the implementation of Card interface.

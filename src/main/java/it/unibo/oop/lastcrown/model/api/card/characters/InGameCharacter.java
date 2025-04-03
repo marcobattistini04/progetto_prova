@@ -1,4 +1,4 @@
-package it.unibo.model.api.card.characters;
+package it.unibo.oop.lastcrown.model.api.card.characters;
 
 /**
  * A generic character (hero, enemy, playable) that is currently involved in the match.

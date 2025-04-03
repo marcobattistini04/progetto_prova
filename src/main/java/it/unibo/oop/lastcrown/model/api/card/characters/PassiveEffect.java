@@ -1,4 +1,4 @@
-package it.unibo.model.api.card.characters;
+package it.unibo.oop.lastcrown.model.api.card.characters;
 
 /**
  * the passive effect the hero can have. It influences the player's characters statistics.

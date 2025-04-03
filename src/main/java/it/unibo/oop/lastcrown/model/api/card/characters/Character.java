@@ -1,6 +1,6 @@
-package it.unibo.model.api.card.characters;
+package it.unibo.oop.lastcrown.model.api.card.characters;
 
-import it.unibo.model.api.card.Card;
+import it.unibo.oop.lastcrown.model.api.card.Card;
 
 /**
  * A generic Character.
